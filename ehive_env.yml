@@ -28,7 +28,6 @@ dependencies:
 - zlib=1.2.8=3
 - anaconda-client=1.6.6=py36h59e3ba0_0
 - asn1crypto=0.24.0=py36_0
-- binstar=0.12=2
 - ca-certificates=2017.08.26=h1d4fec5_0
 - certifi=2017.7.27.1=py36h8b7b77e_0
 - cffi=1.11.4=py36h9745a5d_0
@@ -67,7 +66,6 @@ dependencies:
 - gzip=1.7=1
 - pip:
   - cycler==0.10.0
-  - igsr-analysis (/nfs/production/reseq-info/work/ernesto/isgr/VARIANT_CALLING/VARCALL_ALLGENOME_13022017/COMBINING/DEVEL/GATK_HC_TEST_MINI/lib/igsr_analysis)==0.90
   - ipython-genutils==0.2.0
   - jupyter-core==4.4.0
   - matplotlib==2.1.1
